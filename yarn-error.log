@@ -1,0 +1,26 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add expo-cli --global
+
+PATH: 
+  C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Users\com\AppData\Local\Microsoft\WindowsApps;C:\Users\com\AppData\Roaming\npm;C:\Users\com\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\com\AppData\Local\Yarn\bin;C:\Users\com\AppData\Local\Yarn\bin;C:\Users\com\AppData\Local\GitHubDesktop\bin
+
+Yarn version: 
+  1.22.0
+
+Node version: 
+  12.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open 'C:\Users\com\AppData\Local\Yarn\Cache\v6\npm-@expo-traveling-fastlane-linux-1.13.1-23d0bedfc085c455c29f2445e7419ce4fadd76b8-integrity\node_modules\@expo\traveling-fastlane-linux\.yarn-metadata.json'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
